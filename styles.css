@@ -1,0 +1,13 @@
+.grid-container {
+    width: 1000px;
+    height: 1000px;
+    display: grid;
+}
+
+.grid-item {
+    border: grey solid 1px;
+}
+
+.grid-item-hovered {
+    background-color: lightgrey;
+}
